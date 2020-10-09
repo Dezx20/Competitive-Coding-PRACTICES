@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SIPM<Java_PRACTICE_60689add>",
+            "request": "launch",
+            "mainClass": "HACKER_RANK_Problem.SIPM",
+            "projectName": "Java_PRACTICE_60689add"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-anagram<Java_PRACTICE_60689add>",
+            "request": "launch",
+            "mainClass": "HACKER_RANK_Problem.anagram",
+            "projectName": "Java_PRACTICE_60689add"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-reversing_string<Java_PRACTICE_60689add>",
+            "request": "launch",
+            "mainClass": "HACKER_RANK_Problem.reversing_string",
+            "projectName": "Java_PRACTICE_60689add"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-substringcomp<Java_PRACTICE_60689add>",
+            "request": "launch",
+            "mainClass": "HACKER_RANK_Problem.substringcomp",
+            "projectName": "Java_PRACTICE_60689add"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Hello<Java_PRACTICE_60689add>",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "Java_PRACTICE_60689add"
+        }
+    ]
+}
